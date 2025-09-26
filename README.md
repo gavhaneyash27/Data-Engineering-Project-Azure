@@ -14,14 +14,21 @@ This project demonstrates a data engineering pipeline built on Azure. It uses Az
   - Implemented incremental loading logic  
   - Applied SCD Type 1 for dimension tables  
   - Created star schema fact & dimension tables  
-- **Data Storage**: Final curated data stored in the Gold Layer of ADLS  
+- **Data Storage**: Final curated data stored in the Gold Layer of ADLS
+  
+## Azure Data Factory Pipelines
+
+- **source_prep** → Ingests raw CSV data into Azure SQL Database (`source_data` table) using Copy activity with column mappings.
+<img width="1823" height="770" alt="source_prep" src="https://github.com/user-attachments/assets/51f659df-e607-4fbd-a856-0ef35e1851b9" />
+
+- **increm_data_pipeline** → Implements incremental loading with watermark logic, writes Parquet to Bronze layer, updates watermark table, and triggers Databricks notebooks to build Silver and Gold (dimensions and fact table) layer.
+<img width="1733" height="687" alt="increm_pipeline" src="https://github.com/user-attachments/assets/3e5a14ab-79c9-4760-acf3-80eef6811de8" />
 
   
 ##  Tech Stack  
-
 - SQL Database – Data Source  
 - Azure Data Factory (ADF) – Pipeline orchestration  
-- Azure Data Lake Storage (ADLS) – Data storage layers (Raw, Processed, Gold)  
+- Azure Data Lake Storage (ADLS) – Data storage layers (Bronze, Silver, Gold)  
 - Azure Databricks (PySpark) – Data transformation and SCD Type 1 logic  
 - Star Schema – Data model  
 
