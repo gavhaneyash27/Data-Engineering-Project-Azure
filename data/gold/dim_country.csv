@@ -1,0 +1,250 @@
+country,noc,dim_country_key
+Spain-1,ESP,1
+Slovakia,SVK,2
+Iraq,IRQ,3
+Denmark,DEN,4
+Cayman Islands,CAY,5
+France,FRA,6
+Gabon,GAB,7
+Malta,MLT,8
+Mauritius,MRI,9
+Cameroon,CMR,10
+Argentina-1,ARG,11
+Malaysia,MAS,12
+Guinea Bissau,GBS,13
+Chile,CHI,14
+Czech Republic-1,CZE,15
+Bhutan,BHU,16
+Australia,AUS,17
+Qatar,QAT,18
+Russia-1,RUS,19
+Uruguay,URU,20
+Antigua and Barbuda,ANT,21
+China-2,CHN,22
+Hong Kong,HKG,23
+Azerbaijan,AZE,24
+Tunisia,TUN,25
+Bosnia and Herzegovina,BIH,26
+Germany,GER,27
+Dominican Republic,DOM,28
+Belize,BIZ,29
+Jamaica,JAM,30
+Togo,TOG,31
+Great Britain-1,GBR,32
+Sweden,SWE,33
+Vietnam,VIE,34
+Mali,MLI,35
+Zimbabwe,ZIM,36
+Brunei,BRU,37
+Portugal,POR,38
+American Samoa,ASA,39
+Romania,ROU,40
+Cambodia,CAM,41
+Singapore,SGP,42
+Guatemala,GUA,43
+Andorra,AND,44
+Saint Vincent and the Grenadines,VIN,45
+Brazil-2,BRA,46
+Latvia,LAT,47
+Papua New Guinea,PNG,48
+Costa Rica,CRC,49
+Honduras,HON,50
+El Salvador,ESA,51
+Individual Olympic Athletes,IOA,52
+Uzbekistan,UZB,53
+Solomon Islands,SOL,54
+Haiti,HAI,55
+Kosovo,KOS,56
+Myanmar,MYA,57
+Venezuela,VEN,58
+Finland,FIN,59
+Ukraine-1,UKR,60
+Puerto Rico,PUR,61
+Federated States of Micronesia,FSM,62
+Switzerland,SUI,63
+Libya,LBA,64
+Bulgaria,BUL,65
+Syria,SYR,66
+Croatia,CRO,67
+Congo (Brazzaville),CGO,68
+Guinea,GUI,69
+Niger,NIG,70
+Monaco,MON,71
+Comoros,COM,72
+Lebanon,LIB,73
+Maldives,MDV,74
+Algeria,ALG,75
+Russia,RUS,76
+Thailand,THA,77
+Vanuatu,VAN,78
+Tajikistan,TJK,79
+Bermuda,BER,80
+Samoa,SAM,81
+Romania-1,ROU,82
+Australia-1,AUS,83
+South Korea,KOR,84
+Jordan,JOR,85
+Mexico,MEX,86
+Ukraine,UKR,87
+Cote d'Ivoire,CIV,88
+Refugee Olympic Athletes,ROT,89
+Ecuador,ECU,90
+Grenada,GRN,91
+Sierra Leone,SLE,92
+Lithuania,LTU,93
+Sri Lanka,SRI,94
+United States Virgin Islands,ISV,95
+South Korea-2,KOR,96
+Turkmenistan,TKM,97
+Argentina-2,ARG,98
+Japan,JPN,99
+United States-1,USA,100
+Armenia,ARM,101
+Tanzania,TAN,102
+Cuba,CUB,103
+Malawi,MAW,104
+Ukraine-2,UKR,105
+Indonesia-2,INA,106
+France-2,FRA,107
+United States-2,USA,108
+Czech Republic-2,CZE,109
+Indonesia-1,INA,110
+Turkey,TUR,111
+Hungary,HUN,112
+Burundi,BDI,113
+Morocco,MAR,114
+Cyprus,CYP,115
+Sao Tome and Principe,STP,116
+Egypt,EGY,117
+Afghanistan,AFG,118
+Guam,GUM,119
+Germany-1,GER,120
+Sudan,SUD,121
+Yemen,YEM,122
+Bahamas,BAH,123
+South Africa,RSA,124
+Kazakhstan,KAZ,125
+Palau,PLW,126
+Nigeria,NGR,127
+Moldova,MDA,128
+Congo (Kinshasa),COD,129
+Saint Lucia,LCA,130
+Philippines,PHI,131
+Rwanda,RWA,132
+Indonesia,INA,133
+Barbados,BAR,134
+Montenegro,MNE,135
+Germany-2,GER,136
+New Zealand,NZL,137
+Chinese Taipei,TPE,138
+Gambia,GAM,139
+Kenya,KEN,140
+Romania-2,ROU,141
+Luxembourg,LUX,142
+France-1,FRA,143
+Kiribati,KIR,144
+Iran,IRI,145
+Spain,ESP,146
+Uganda,UGA,147
+Panama,PAN,148
+Trinidad and Tobago,TTO,149
+Madagascar,MAD,150
+British Virgin Islands,IVB,151
+Australia-2,AUS,152
+Argentina,ARG,153
+Brazil-1,BRA,154
+Burkina Faso,BUR,155
+Great Britain-2,GBR,156
+Nepal,NEP,157
+Botswana,BOT,158
+Bangladesh,BAN,159
+Netherlands,NED,160
+Pakistan,PAK,161
+Canada,CAN,162
+Czech Republic,CZE,163
+Cook Islands,COK,164
+Peru,PER,165
+Ghana,GHA,166
+Macedonia,MKD,167
+Liechtenstein,LIE,168
+Belgium,BEL,169
+Georgia,GEO,170
+Albania,ALB,171
+Zambia,ZAM,172
+Paraguay,PAR,173
+Slovenia,SLO,174
+Saudi Arabia,KSA,175
+Marshall Islands,MHL,176
+San Marino,SMR,177
+Ireland,IRL,178
+Oman,OMA,179
+Senegal,SEN,180
+Serbia,SRB,181
+Norway,NOR,182
+Israel,ISR,183
+United States,USA,184
+Italy,ITA,185
+Iceland,ISL,186
+Estonia,EST,187
+Belarus,BLR,188
+Aruba,ARU,189
+Greece,GRE,190
+Tonga,TGA,191
+Nicaragua,NCA,192
+Mozambique,MOZ,193
+Central African Republic,CAF,194
+Brazil,BRA,195
+North Korea,PRK,196
+Benin,BEN,197
+Guyana,GUY,198
+Spain-2,ESP,199
+South Korea-1,KOR,200
+United Arab Emirates,UAE,201
+Djibouti,DJI,202
+Angola,ANG,203
+Mongolia,MGL,204
+Namibia,NAM,205
+India,IND,206
+Laos,LAO,207
+Russia-2,RUS,208
+China,CHN,209
+Suriname,SUR,210
+Ethiopia,ETH,211
+Poland,POL,212
+Austria,AUT,213
+Great Britain,GBR,214
+Bolivia,BOL,215
+Fiji,FIJ,216
+Kyrgyzstan,KGZ,217
+Seychelles,SEY,218
+Palestine,PLE,219
+Bahrain,BRN,220
+Nauru,NRU,221
+Colombia,COL,222
+China-1,CHN,223
+Austria-2,AUT,224
+Timor Leste,TLS,225
+Poland-2,POL,226
+Netherlands-1,NED,227
+Lesotho,LES,228
+Swaziland,SWZ,229
+Canada-1,CAN,230
+Canada-2,CAN,231
+Equatorial Guinea,GEQ,232
+Tuvalu,TUV,233
+Italy-2,ITA,234
+Austria-1,AUT,235
+Italy-1,ITA,236
+South Sudan,SSD,237
+Mauritania,MTN,238
+Switzerland-1,SUI,239
+Cape Verde,CPV,240
+Somalia,SOM,241
+Switzerland-2,SUI,242
+Chad,CHA,243
+Netherlands-2,NED,244
+Saint Kitts and Nevis,SKN,245
+Dominica,DMA,246
+Eritrea,ERI,247
+Poland-1,POL,248
+Liberia,LBR,249
