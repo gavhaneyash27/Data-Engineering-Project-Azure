@@ -18,10 +18,14 @@ This project demonstrates a data engineering pipeline built on Azure. It uses Az
   
 ## Azure Data Factory Pipelines
 
-- **source_prep** → Ingests raw CSV data into Azure SQL Database (`source_data` table) using Copy activity with column mappings.
+- **source_prep** : Ingests raw CSV data into Azure SQL Database (`source_data` table) using Copy activity with column mappings.
 <img width="1823" height="770" alt="source_prep" src="https://github.com/user-attachments/assets/51f659df-e607-4fbd-a856-0ef35e1851b9" />
 
-- **increm_data_pipeline** → Implements incremental loading with watermark logic, writes Parquet to Bronze layer, updates watermark table, and triggers Databricks notebooks to build Silver and Gold (dimensions and fact table) layer.
+- **increm_data_pipeline** :
+    -  Implements incremental loading with watermark logic
+    -  Writes Parquet to Bronze layer
+    -  Updates watermark table
+    -  Triggers Databricks notebooks to build Silver and Gold (dimensions and fact table) layer.
 <img width="1733" height="687" alt="increm_pipeline" src="https://github.com/user-attachments/assets/3e5a14ab-79c9-4760-acf3-80eef6811de8" />
 
   
